@@ -1,4 +1,4 @@
-## Opa, sou o Alucard, um robôzinho humano do Github
+## Opa, sou o Alucard, prazer em conhecer.
 <div align="center">
   <a href="https://github.com/SystemAlucard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=systemalucard&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
