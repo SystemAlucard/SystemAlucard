@@ -26,4 +26,5 @@
  
   ![Snake animation](https://github.com/systemalucard/systemalucard/blob/output/github-contribution-grid-snake.svg)
  
+
 </div>
